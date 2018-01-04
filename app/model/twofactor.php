@@ -26,7 +26,7 @@
  * because the unlock-call goes to the current connected server
  */
 class Twofactor_Model {
-	static $FIREBASE_API_KEY = "AAAAQpBzHQY:APA91bGBXIzXD5-Ycc78zWDLhUB589ky-Ck-R45maLyfjOvZAfScaUb6qSDZJy9fAL--YWIryu0X4u07YtINUk9vU9GBZRXalon8xENm35TVSWpMSuPHgrVqSpWE-Onwi1JtHR1x37rG";
+	static $FIREBASE_API_KEY = "";
 
 	/**
 	 * Constructor
